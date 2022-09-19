@@ -10,8 +10,8 @@
 ##################################
 
 # TensorFlow
-import tensorflow as tf # V2.8.0 recommended
-import keras # V2.8.0 recommended
+import tensorflow as tf # V2.10.0 recommended
+import keras # V2.10.0 recommended
 
 ##################################
 # FUNCTIONS
